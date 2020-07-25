@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    color: black;
+}
+button{
+    position: relative;
+    top: 20px;
+    left: 500px;
+    background-color: blue;
+    color: white;
+}
+.darkMode{
+    background-color: black;
+    color: white;
+}
+
